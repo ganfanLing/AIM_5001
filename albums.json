@@ -1,0 +1,37 @@
+{
+  "albums": [
+    {
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "year": 1977,
+      "songs": [
+        "Second Hand News",
+        "Dreams",
+        "Don't Stop",
+        "Go Your Own Way",
+        "The Chain"
+      ]
+    },
+    {
+      "title": "The Miseducation of Lauryn Hill",
+      "artist": "Lauryn Hill",
+      "year": 1998,
+      "songs": [
+        "Lost Ones",
+        "Ex-Factor",
+        "To Zion",
+        "Doo Wop (That Thing)",
+        "Nothing Even Matters"
+      ]
+    },
+    {
+      "title": "Random Access Memories",
+      "artist": "Daft Punk",
+      "year": 2013,
+      "songs": [
+        "Give Life Back to Music",
+        "The Game of Love",
+        "Giorgio by Moroder",
+        "Instant Crush",
+        "Get Lucky"
+]}]}
